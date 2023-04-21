@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'FlipApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8DE73F420C0348B1A11F6C9C7FAE922C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_94077D2F648B487DBB6CBC6B9C51E7D5 }}
